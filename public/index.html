@@ -21,7 +21,15 @@
 
 <body>
   <div id="root"></div>
-
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      if (localStorage.theme === 'dark') {
+        document.documentElement.classList.add('dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+      }
+    });
+  </script>
 </body>
 
 </html>
