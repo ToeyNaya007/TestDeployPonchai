@@ -1,0 +1,101 @@
+{
+    "status": 200,
+    "versionAPI": "v1",
+    "error": null,
+    "execution_time": "3.4722828865051 seconds",
+    "client_ip": "184.22.20.84",
+    "server_time": "Asia\/Bangkok",
+    "search_provider": "1688",
+    "search_key": "\u0e01\u0e32\u0e07\u0e40\u0e01\u0e07",
+    "search_page": "1",
+    "search_order": "pop",
+    "data": [
+        {
+            "id": 0,
+            "name": "สินค้า 1",
+            "description": "การออกแบบใหม่ 2024 ฤดูร้อน",
+            "price": 264,
+            "image": "https://cbu01.alicdn.com/img/ibank/O1CN01yXyvBG2CPwA97KV1D_!!2622588467-0-cib.jpg",
+            "category": "หมวดหมู่ 1",
+            "tags": ["สตรีท", "ฤดูร้อน"],
+            "variantType": "สี",
+            "variants": ["สีแดง", "สีฟ้า", "สีเขียว"],
+            "size" : ["XS", "S", "M", "L", "XL"],
+            "link": "https://detail.1688.com/offer/644059415313.html"
+            
+        },
+        {
+            "id": 1,
+            "name": "สินค้า 2",
+            "description": "ชุดฤดูร้อน 2024 ใหม่",
+            "price": 161,
+            "image": "https://cbu01.alicdn.com/img/ibank/O1CN01fVyZbE1IAim7uOgXS_!!1014640853-0-cib.jpg",
+            "category": "หมวดหมู่ 2",
+            "tags": ["สตรีท", "ฤดูร้อน"],
+            "variantType": "สี",
+            "variants": ["สีแดง", "สีฟ้า"],
+            "link": "https://detail.1688.com/offer/670997232044.html"
+        },
+        {
+            "id": 2,
+            "name": "สินค้า 3",
+            "description": "เสื้อฤดูร้อนขนาดใหญ่ 2024",
+            "price": 44,
+            "image": "https://cbu01.alicdn.com/img/ibank/13302577270_582723176.jpg",
+            "category": "หมวดหมู่ 3",
+            "tags": ["แฟชั่น", "ฤดูร้อน"],
+            "variantType": "สี",
+            "variants": ["สีดำ", "สีขาว"],
+            "link": "https://detail.1688.com/offer/591356015813.html"
+        },
+        {
+            "id": 3,
+            "name": "สินค้า 4",
+            "description": "เสื้อผ้าฤดูร้อนสำหรับผู้ชาย",
+            "price": 65,
+            "image": "https://cbu01.alicdn.com/img/ibank/O1CN01nMOvOd1ibRhTasqOI_!!2208258814431-0-cib.jpg",
+            "category": "หมวดหมู่ 4",
+            "tags": ["สตรีท", "ฤดูร้อน"],
+            "variantType": "สี",
+            "variants": ["สีดำ", "สีเทา"],
+            "link": "https://detail.1688.com/offer/666534563320.html"
+        },
+        {
+            "id": 4,
+            "name": "สินค้า 5",
+            "description": "เสื้อผ้าฤดูร้อน 2024 ใหม่",
+            "price": 141,
+            "image": "https://cbu01.alicdn.com/img/ibank/O1CN0168Afvn1kitXpNqD52_!!4179334718-0-cib.jpg",
+            "category": "หมวดหมู่ 5",
+            "tags": ["สตรีท", "ฤดูร้อน"],
+            "variantType": "สี",
+            "variants": ["สีเขียว", "สีน้ำเงิน"],
+            "link": "https://detail.1688.com/offer/643026238905.html"
+        },
+        {
+            "id": 5,
+            "name": "สินค้า 6",
+            "description": "เสื้อผ้าฤดูหนาว",
+            "price": 80,
+            "image": "https://cbu01.alicdn.com/img/ibank/O1CN01OgY6Si1dp7Sei0iRF_!!2207957433784-0-cib.jpg",
+            "category": "หมวดหมู่ 6",
+            "tags": ["แฟชั่น", "ฤดูหนาว"],
+            "variantType": "สี",
+            "variants": ["สีดำ", "สีเทา"],
+            "link": "https://detail.1688.com/offer/671640717628.html"
+        },
+        {
+            "id": 6,
+            "name": "สินค้า 7",
+            "description": "เสื้อผ้าฤดูร้อน 2024",
+            "price": 97,
+            "image": "https://cbu01.alicdn.com/img/ibank/O1CN01kpavQv22aLASP1Uxi_!!2116337136-0-cib.jpg",
+            "category": "หมวดหมู่ 7",
+            "tags": ["แฟชั่น", "ฤดูร้อน"],
+            "variantType": "สี",
+            "variants": ["สีแดง", "สีฟ้า"],
+            "link": "https://detail.1688.com/offer/720557733480.html"
+        }
+    ]
+    
+}

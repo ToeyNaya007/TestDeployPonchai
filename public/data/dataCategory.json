@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "name": "อิเล็กทรอนิกส์",
+      "images212" :["https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp","https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp"],
+      "images450" : "https://www.allonline.7eleven.co.th/media/i/277x450-220920-4.webp",
+      "subcategories": [
+        "โทรศัพท์มือถือ",
+        "แล็ปท็อป",
+        "กล้อง",
+        "อุปกรณ์เสริมโทรศัพท์",
+        "แท็บเล็ต",
+        "หูฟัง"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "เสื้อผ้า",
+      "images212" :["https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp","https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp"],
+      "images450" : "https://www.allonline.7eleven.co.th/media/i/277x450-220920-4.webp",
+      "subcategories": [
+        "ผู้ชาย",
+        "ผู้หญิง",
+        "เด็ก",
+        "เสื้อผ้าผู้ชาย",
+        "เสื้อผ้าผู้หญิง",
+        "เสื้อผ้าเด็ก",
+        "รองเท้า",
+        "อุปกรณ์เสริมแฟชั่น"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "บ้านและครัว",
+      "images212" :["https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp","https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp"],
+      "images450" : "https://www.allonline.7eleven.co.th/media/i/277x450-220920-4.webp",
+      "subcategories": [
+        "เฟอร์นิเจอร์",
+        "ของตกแต่ง",
+        "เครื่องใช้ไฟฟ้า",
+        "เครื่องครัว",
+        "อุปกรณ์ทำความสะอาด",
+        "การจัดเก็บ"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "กีฬาและกิจกรรมกลางแจ้ง",
+      "images212" :["https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp","https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp"],
+      "images450" : "https://www.allonline.7eleven.co.th/media/i/277x450-220920-4.webp",
+      "subcategories": [
+        "อุปกรณ์กีฬา",
+        "เสื้อผ้ากีฬา",
+        "อุปกรณ์แคมป์ปิ้ง",
+        "จักรยาน",
+        "กีฬาในร่ม",
+        "กีฬากลางแจ้ง"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "สุขภาพและความงาม",
+      "images212" :["https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp","https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp"],
+      "images450" : "https://www.allonline.7eleven.co.th/media/i/277x450-220920-4.webp",
+      "subcategories": [
+        "ผลิตภัณฑ์ดูแลผิว",
+        "ผลิตภัณฑ์เสริมอาหาร",
+        "เครื่องสำอาง",
+        "ผลิตภัณฑ์ดูแลเส้นผม",
+        "ผลิตภัณฑ์ดูแลสุขภาพ",
+        "เครื่องมือแพทย์"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "หนังสือและการศึกษา",
+      "images212" :["https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp","https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp"],
+      "images450" : "https://www.allonline.7eleven.co.th/media/i/277x450-220920-4.webp",
+      "subcategories": [
+        "หนังสือ",
+        "เครื่องเขียน",
+        "อุปกรณ์การศึกษา",
+        "หนังสือเรียน",
+        "หนังสือการ์ตูน",
+        "หนังสือทั่วไป"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ของเล่นและเกม",
+      "images212" :["https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp","https://www.allonline.7eleven.co.th/media/i/278x212%E0%B8%9A%E0%B8%99-220984-3.webp"],
+      "images450" : "https://www.allonline.7eleven.co.th/media/i/277x450-220920-4.webp",
+      "subcategories": [
+        "ของเล่นเด็ก",
+        "เกมกระดาน",
+        "เกมวิดีโอ",
+        "ของเล่นเสริมพัฒนาการ",
+        "ของเล่นสร้างสรรค์",
+        "เกมเพื่อการศึกษา"
+      ]
+    }
+    
+  ]
+  
